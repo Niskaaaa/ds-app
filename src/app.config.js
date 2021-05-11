@@ -2,7 +2,8 @@ export default {
   pages: [
     'pages/index/index',
     'pages/stackArray/stackArray',
-    'pages/stackLL/stackLL'
+    'pages/stackLL/stackLL',
+    'pages/selectSort/selectSort'
   ],
   window: {
     backgroundTextStyle: 'light',

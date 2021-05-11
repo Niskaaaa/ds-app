@@ -18,7 +18,7 @@ export default class Index extends Component {
 
   dealNavigate(item,index){
     console.log(index)
-    var urlGroup = ['/pages/stackArray/stackArray','/pages/stackLL/stackLL']
+    var urlGroup = ['/pages/selectSort/selectSort','/pages/stackArray/stackArray','/pages/stackLL/stackLL']
     Taro.navigateTo({url:urlGroup[index]})
 
   }

@@ -5,13 +5,13 @@ import Script from "react-load-script";
 export default class Index extends Component {
   componentWillMount() {}
 
-  componenViewidMount() {}
+  componentDidMount() {}
 
   componentWillUnmount() {}
 
-  componenViewidShow() {}
+  componentDidShow() {}
 
-  componenViewidHide() {}
+  componentDidHide() {}
 
   render() {
     return (
